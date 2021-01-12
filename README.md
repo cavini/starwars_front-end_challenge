@@ -1,3 +1,20 @@
+
+Code challenge for a developer role.
+
+I only focused on completing the functionalities that were required to pass this challenge. Since I only had a few hours to develop this project, couldn't do css styling, implement coding best practices and the factory pattern that I intended.
+
+I intend to clean up the code, add OOP principles and best practices and do CSS styling in the near future.
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
