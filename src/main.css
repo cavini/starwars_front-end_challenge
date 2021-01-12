@@ -1,0 +1,11 @@
+body {
+  width: 100vw;
+}
+
+.table-header-cell-wrapper {
+  display: flex;
+}
+
+.filter-container {
+  display: flex;
+}
